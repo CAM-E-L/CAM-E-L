@@ -1,8 +1,10 @@
 👋 We are [Julius Fenn](https://github.com/FennStatistics) and [Florian Gouret](https://github.com/Aodarium), trained in Psychology, Statistics, Linguistics and Web-Development (self-taught), currently based in Germany and France 🇪🇺.
 
-    🔭 We build tools that make new research tools easier accessible
-    ⚙️ We use a lot of: .js/.ts, .py, .r, .html, css, .json
-    💬 Ask us about possible collaborations or research ideas - we happy to hear from you: <cam.contact@drawyourminds.de>
+🔭 We build tools that make new research tools easier accessible
+    
+⚙️ We use a lot of: .js/.ts, .py, .r, .html, css, .json
+
+💬 Ask us about possible collaborations or research ideas - we happy to hear from you: <cam.contact@drawyourminds.de>
 
 # Overview of our CAM tools
 

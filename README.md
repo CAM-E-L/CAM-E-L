@@ -6,30 +6,27 @@
 
 💬 Ask us about possible collaborations or research ideas - we happy to hear from you: <cam.contact@drawyourminds.de>
 
-# Overview of our CAM tools
+# Overview of our Cognitive-Affective Map tools
 
-<!--
-**Camel-app/Camel-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+abbrevation: Cognitive-Affective Map = CAM
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **data collection:** Cognitive-Affective Map Extended Logic (C.A.M.E.L.) is a software to draw CAMs with an easy and intuitive interface, see: https://github.com/Camel-app/DataCollection
+- **data analysis:** the CAM-App is programmed in Shiny using the R environment (+ Python modules) to analyze the resulting Cognitive-Affective Map data using an interface, see: https://github.com/Camel-app/DataAnalysis
+- **administrative panel:** the administrative panel provides basic information of the CAM-tools, links to all programmed tools and a detailed documentation, using the panel it is easily possible to set up studies
 
 
-I'm a Cognitive Scientist and Research Software Engineer currently based in Germany. 🇪🇺
+-
+-
+- CAM-App is programmed in Shiny using the R environment (+ Python modules) to analyze the resulting Cognitive-Affective Map data using an interface, see: https://github.com/Camel-app/DataAnalysis
 
-    🔭 I build tools that make better science easier
-    ⚙️ I use a lot of: .js/.ts, .py, .r, .html, scss, .sql, .json
-    🎓 I'm a graduate student at the University of Mannheim
-    💬 Ask me about in-browser research, open science, stats and data science
-    🌱 I’m currently learning .rs and trying yoga
-    😄 Pronouns: he, him, his
 
--->
+
+ (Wickham, 2021). The logic of the CAM-App follows the principle of a classical data-analysis pipeline (e.g. Peng & Matsui, 2016; Wickham & Grolemund, 2017), whereby the application is composed of two steps: 
+
+
+
+
+App!
+
+CAM tools make building in-browser Cognitive-Affective Maps (CAMs) easy. It’s a simple, graphical interace to help setting up CAM studies using our Cognitive-Affective Map extended logic (C.A.M.E.L.) software. The resulting data can be analyzed using our developed CAM-App.
+Getting Started

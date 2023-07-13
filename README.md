@@ -26,4 +26,4 @@ If you want to set up CAM-studies or inform yourself, please check out our webpa
 - join our Slack Channel for support: https://join.slack.com/t/cognitiveaffe-um96332/shared_invite/zt-1cybwr0tf-u2PWQh4L3BP3tuxLuH4c5w
 
 
-Using our tools, we are happy if you cite our publication. All the tools are free to use without any liability or warranty (MIT Licencse).
+Using our tools, we are happy if you cite our publication. All the tools are free to use without any liability or warranty (MIT License).

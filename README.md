@@ -1,10 +1,10 @@
-👋 We are [Julius Fenn](https://github.com/FennStatistics) and [Florian Gouret](https://github.com/Aodarium), trained in Psychology, Statistics, Linguistics and Web-Development (self-taught), currently based in Germany and France 🇪🇺.
+👋 Welcome to our tools of the  Cognitive-Affective Map (CAM) research Team at the University of Freiburg (see [CAM-Research](https://www.psychologie.uni-freiburg.de/abteilungen/Allgemeine.Psychologie/research/cam-research)). Me [Julius Fenn](https://github.com/FennStatistics), supported structurally and conceptually by [Florian Gouret](https://github.com/Aodarium), programmed the CAM tools. I personally trained in Psychology, Statistics, and Web-Development (self-taught), currently based in Germany 🇪🇺.
 
-🔭 We build tools that make new research tools easier accessible
+🔭 I build tools that make new research tools easier accessible
     
-⚙️ We use a lot of: .js/.ts, .py, .r, .html, css, .json
+⚙️ I use a lot of: .r, .js/.ts, .html, css, .json and some .py
 
-💬 Ask us about possible collaborations or research ideas - we happy to hear from you: <cam.contact@drawyourminds.de>
+💬 Ask me about possible collaborations or research ideas - I happy to hear from you: <cam.contact@drawyourminds.de>
 
 # Overview of our Cognitive-Affective Map tools
 abbrevation: Cognitive-Affective Map = CAM

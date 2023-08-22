@@ -22,7 +22,7 @@ If you want to set up CAM-studies or inform yourself, please check out our webpa
  
 ## Need help?
 
-- read our detailed documentation: https://camtools-documentation.readthedocs.io/en/master/
+- read our detailed documentation: https://osf.io/q5hj4/
 - join our Slack Channel for support: https://join.slack.com/t/cognitiveaffe-um96332/shared_invite/zt-1cybwr0tf-u2PWQh4L3BP3tuxLuH4c5w
 
 

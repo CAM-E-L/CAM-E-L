@@ -2,7 +2,7 @@
 
 🔭 I build tools that make new research tools easier accessible
     
-⚙️ I use a lot of: .r, .js/.ts, .html, css, .json and some .py
+⚙️ I use a lot of: .r, .py, .js/.ts, .html, css, and .json 
 
 💬 Ask me about possible collaborations or research ideas - I am happy to hear from you: <cam.contact@drawyourminds.de>
 

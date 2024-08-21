@@ -1,3 +1,6 @@
+# Cognitive-Affective Maps *extended logic* - Proposing Tools to Collect and Analyze Attitudes and Belief Systems
+
+
 👋 Welcome to our tools of the  Cognitive-Affective Map (CAM) research Team at the University of Freiburg (see [CAM-Research](https://www.psychologie.uni-freiburg.de/abteilungen/Allgemeine.Psychologie/research/cam-research)). Me [Julius Fenn](https://github.com/FennStatistics), at the start suported by [Florian Gouret](https://github.com/Aodarium), programmed the CAM tools. I am personally trained in Psychology, Statistics, and Web-Development (self-taught), currently based in Germany 🇪🇺.
 
 🔭 I build tools that make new research tools easier accessible
@@ -13,9 +16,9 @@ If you want to set up CAM-studies or inform yourself, please check out our webpa
 
 ## GitHub Links: 
 
-- **data collection:** Cognitive-Affective Map Extended Logic (C.A.M.E.L.) is a software to draw CAMs with an easy and intuitive interface, see: https://github.com/Camel-app/DataCollection
-- **data analysis:** the CAM-App is programmed in Shiny using the R environment (+ Python modules) to analyze the resulting Cognitive-Affective Map data using an interface, see: https://github.com/Camel-app/DataAnalysis
-- **administrative panel:** the administrative panel provides basic information of the CAM-tools, links to all programmed tools and a detailed documentation, using the panel it is easily possible to set up studies, see: https://github.com/Camel-app/webpage
+- **data collection tool:** Cognitive-Affective Map Extended Logic (C.A.M.E.L.) is a software to draw CAMs with an easy and intuitive interface, see: [https://github.com/Camel-app/DataCollection](https://github.com/CAM-E-L/DataCollection)
+- **data analysis tool:** the CAM-App is programmed in Shiny using the R environment (+ Python modules) to analyze the resulting Cognitive-Affective Map data using an interface, see: [https://github.com/Camel-app/DataAnalysis](https://github.com/CAM-E-L/DataAnalysis)
+- **administrative panel:** the administrative panel provides basic information of the CAM-tools, links to all programmed tools and a detailed documentation, using the panel it is easily possible to set up studies, see: [https://github.com/Camel-app/webpage](https://github.com/CAM-E-L/webpage)
 - **detailed documentation:** detailed explenation of the CAM tools: https://osf.io/q5hj4/ (on GitHub: https://github.com/FennStatistics/CAMtools_documentation)
  
 ## Need help?
